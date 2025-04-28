@@ -40,3 +40,8 @@
 .read-the-docs {
   color: #888;
 }
+h1, h2{
+  color: white;
+  margin-bottom: 10%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
